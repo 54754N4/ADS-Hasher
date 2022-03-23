@@ -1,0 +1,16 @@
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\bin\Debug\net5.0\ADS Hasher.exe
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\bin\Debug\net5.0\ADS Hasher.deps.json
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\bin\Debug\net5.0\ADS Hasher.runtimeconfig.json
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\bin\Debug\net5.0\ADS Hasher.runtimeconfig.dev.json
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\bin\Debug\net5.0\ADS Hasher.dll
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\bin\Debug\net5.0\ref\ADS Hasher.dll
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\bin\Debug\net5.0\ADS Hasher.pdb
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\obj\Debug\net5.0\ADS Hasher.csproj.AssemblyReference.cache
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\obj\Debug\net5.0\ADS Hasher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\obj\Debug\net5.0\ADS Hasher.AssemblyInfoInputs.cache
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\obj\Debug\net5.0\ADS Hasher.AssemblyInfo.cs
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\obj\Debug\net5.0\ADS Hasher.csproj.CoreCompileInputs.cache
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\obj\Debug\net5.0\ADS Hasher.dll
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\obj\Debug\net5.0\ref\ADS Hasher.dll
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\obj\Debug\net5.0\ADS Hasher.pdb
+D:\Desktop\Workspaces\C#\repos\ADS Hasher\obj\Debug\net5.0\ADS Hasher.genruntimeconfig.cache
