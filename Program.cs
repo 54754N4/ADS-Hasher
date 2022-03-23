@@ -149,7 +149,7 @@ namespace ADS_Hasher
         };
 
         /* The concatenation of hashes should be an injective function to prevent
-         * hash("ab"+"c") == hash("a"+"bc"). So we prepend a delimiter with every
+         * hash("ab"+"c") == hash("a"+"bc"). So we append a delimiter with every
          * concatenated hash.
          * Reference: https://crypto.stackexchange.com/a/55172/100780
          */
