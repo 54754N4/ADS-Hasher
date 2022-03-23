@@ -54,11 +54,11 @@ namespace ADS_Hasher
                 .AppendLine("Options:")
                 .AppendLine("\t-h,--help\tPrints this help message")
                 .AppendLine("\t-n,--no-ads\tHashes default stream only")
-                .AppendLine("\t-md5\tIncludes MD5 hash")
-                .AppendLine("\t-sha1\tIncludes SHA1 hash")
-                .AppendLine("\t-sha256\tIncludes SHA256 hash")
-                .AppendLine("\t-sha384\tIncludes SHA384 hash")
-                .AppendLine("\t-sha512\tIncludes SHA512 hash")
+                .AppendLine("\t-md5\t\tIncludes MD5 hash")
+                .AppendLine("\t-sha1\t\tIncludes SHA1 hash")
+                .AppendLine("\t-sha256\t\tIncludes SHA256 hash")
+                .AppendLine("\t-sha384\t\tIncludes SHA384 hash")
+                .AppendLine("\t-sha512\t\tIncludes SHA512 hash")
                 .ToString();
     }
 

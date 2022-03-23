@@ -9,10 +9,10 @@ Usage: hasher.exe <OPTIONS> <file>
 Options:
         -h,--help       Prints this help message
         -n,--no-ads     Hashes default stream only
-        -md5    Includes MD5 hash
-        -sha1   Includes SHA1 hash
-        -sha256 Includes SHA256 hash
-        -sha384 Includes SHA384 hash
-        -sha512 Includes SHA512 hash
+        -md5            Includes MD5 hash
+        -sha1           Includes SHA1 hash
+        -sha256         Includes SHA256 hash
+        -sha384         Includes SHA384 hash
+        -sha512         Includes SHA512 hash
 ```
 
